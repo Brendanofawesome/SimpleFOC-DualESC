@@ -60,7 +60,16 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "npth_inside_courtyard|101249449|26162000|019fb0ef-2880-4cc8-bf7f-4f904e030e27|6203e59a-bd1c-4f12-8700-6df02cda72d4",
+          ""
+        ],
+        [
+          "npth_inside_courtyard|148844000|26162000|4d458631-9841-4e87-80e5-77960e19da9a|f6bc4c86-ae00-45b3-bbf7-7e938053470e",
+          "PCB tooling hole "
+        ]
+      ],
       "meta": {
         "version": 2
       },
@@ -645,7 +654,7 @@
         "uuid": "0dffc378-5905-459a-b0cb-e8e514a8bbef"
       }
     ],
-    "used_designators": "D102,D104,D106-108,U105,J105,R114,Q101-102,CN101,H101-108,C117-122,#PWR136-142",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [
