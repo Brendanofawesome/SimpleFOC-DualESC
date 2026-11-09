@@ -1,8 +1,13 @@
+<img width="845" height="695" alt="image" src="https://github.com/user-attachments/assets/389ea06d-a921-49cf-a1e8-0a21e2a1b455" />
+
+
 # SimpleFOC Dual ESC
 
 This repository contains the hardware design files for a compact dual-motor BLDC controller built around the SimpleFOC ecosystem.  
 
-The board is designed to run two 3-phase motors independently with field-oriented control (FOC) using an STM32G4 microcontroller.
+The board is designed to run two 3-phase motors independently with field-oriented control (FOC) using an STM32G4 microcontroller.  
+
+It is also designed to fit under JLCPCB's $2 PCB deal with economic assembly
 
 ## What the device does
 
